@@ -710,7 +710,7 @@ input[type='checkbox'] {
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #113448;
+	background-color: #feee04;
 }
 
 .navbar-custom .dropdown-item {
@@ -719,7 +719,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #113448;
+	background-color: #feee04;
 }
 
 .navbar-custom .dropdown-item .item-text {
@@ -727,7 +727,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #14bf98;
+	color: #feee04;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
