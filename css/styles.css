@@ -2536,28 +2536,23 @@ a:hover.back-to-top {
 	}
 	/* end of navigation */
 
-.float{
-	position:fixed;
-	width:120px;
-	height:120px;
-	bottom:80px;
-	right:80px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:40px;
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
-}
-.float:hover {
-	text-decoration: none;
-	color: #25d366;
-  background-color:#fff;
+.fab {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+border-radius: 50%;
 }
 
-.my-float{
-	margin-top:16px;
+.fab:hover {
+opacity: 0.7;
+}
+
+.fa-whatsapp {
+background: #45bbff;
+color: white;
 }
 
 
